@@ -31,7 +31,7 @@ ex. '{"userid": userid, "itemid":itemid}'
 
 ### 3. Redis DB: in-memory database(low latency)
 
-Only save data for one day.
+Only storage data for one day.
 
 ### 4 Prefect: DAG Workflow
 
